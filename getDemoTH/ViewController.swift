@@ -9,6 +9,7 @@
 import UIKit
 
 let username = "Fuck you"
+let  iDontKnow = "What the fack do ido?"
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
