@@ -8,6 +8,7 @@
 
 import UIKit
 
+let username = "Fuck you"
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
